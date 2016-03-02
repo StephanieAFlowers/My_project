@@ -1,3 +1,3 @@
 # My_project
-My projects for MICROBIAL.612.1
+Analysis of some random stuff for MICROBIAL.612.1
 Replacing some text 
